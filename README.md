@@ -13,5 +13,5 @@
 - SYRA AI Assistant
 
 ## 🌐 Connect with me
-LinkedIn: https://linkedin.com/in/your-link](https://www.linkedin.com/in/whyshyamsunderkumar/
+LinkedIn: https://linkedin.com/in/whyshyamsunderkumar
 GitHub: https://github.com/WHYSHYAMSUNDERKUMAR
