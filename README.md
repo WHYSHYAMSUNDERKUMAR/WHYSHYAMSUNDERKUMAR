@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Shyam 👋
 
-<!--
-**WHYSHYAMSUNDERKUMAR/WHYSHYAMSUNDERKUMAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MCA Graduate | AI | IoT | Developer  
 
-Here are some ideas to get you started:
+## 🔥 Skills
+- Python, Java, C++
+- IoT (ESP32)
+- Generative AI, NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Smart Agriculture System
+- Bluetooth Controlled Car
+- SYRA AI Assistant
+
+## 🌐 Connect with me
+LinkedIn: https://linkedin.com/in/your-link
+GitHub: https://github.com/WHYSHYAMSUNDERKUMAR
