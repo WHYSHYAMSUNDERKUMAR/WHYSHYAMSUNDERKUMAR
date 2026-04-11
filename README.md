@@ -29,13 +29,7 @@
 - 🤖 SYRA AI Assistant  
 
 ---
-## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=WHYSHYAMSUNDERKUMAR&show_icons=true&theme=tokyonight)
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WHYSHYAMSUNDERKUMAR&layout=compact&theme=tokyonight)
----
 
 ## 📄 Research Publication
 📌 Sensor Based Smart Agriculture Monitoring System Using Web & IoT  
